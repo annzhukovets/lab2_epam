@@ -3,3 +3,4 @@ changing about.txt from dev
 commit in dev for rebase
 string in dev for rebase
 cherry-pick string
+string for revert
