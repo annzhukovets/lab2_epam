@@ -7,4 +7,3 @@ string for rebase with conflict
 =======
 string for rebase
 >>>>>>> Second commit for rebase from dev
-string for revert
