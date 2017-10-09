@@ -1,2 +1,3 @@
 I am Anna Zhukovec
 changing about.txt from dev
+commit in dev for rebase
